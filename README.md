@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhutchi
 - 👀 I’m interested in ... Fortnite, music, and clothes!
-- 🌱 I’m currently learning ... C++ and Java
-- 💞️ I’m looking to collaborate on ... No clue! I've never collaborated before.
+- 🌱 I’m currently learning ... Java, JavaScript, and C++
+- 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... On here! ...?
 
 <!---
